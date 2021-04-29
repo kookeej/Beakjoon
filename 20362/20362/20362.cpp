@@ -1,3 +1,9 @@
+/*
+20362번
+inu 코드페스티벌 2020 B
+유니대전 퀴즈쇼
+*/
+
 #include <iostream>
 using namespace std;
 
